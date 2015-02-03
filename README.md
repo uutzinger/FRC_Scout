@@ -2,7 +2,7 @@
 FRC Scout is a LabView application that allows collecting team scouting data during First Robotics Competion.
 
 The design is based on 
-a) entring team and match data, 
+<li> a) entring team and match data, <\li> 
 b) converting that data to QR Code, 
 c) reading QR code, saving data into JSON text file and 
 d) assembling all JSON files into single spreadsheet.
