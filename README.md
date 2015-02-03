@@ -10,7 +10,7 @@ This program has been created with the intent to help collecting such data with 
 
 This applicaiton needs LabView 2013 or later and Vision Module installed. It also needs JSON package which you can get from VI Package Manager. The QR generator has been taken from https://lavag.org/topic/15670-qr-code-generator/. The QR reader is a part of the NI LabView Vision Module. <br>
 
-QR reading with a simple old USB webcam 640x480 of a text larger than 500 bytes is tricky. Initial code was written to produce XML text files, however they were 2300 bytes long and they were  not readable using a simple camera. If text is about 300 bytes long reading should be stable and fast. The QR codes contain a unique identifier. This assues that any QR code can be read but only valid scouting QR codes are accepted. <br>
+QR reading with a simple old USB webcam 640x480 of a text larger than 500 bytes is tricky. Initial code was written to produce XML text files, however they were 2300 bytes long and they were  not readable using a simple camera. If text is about 300 bytes long reading should be stable and fast. The QR codes contain a unique identifier. This assures that any QR code can be read but only valid scouting QR codes are accepted. <br>
 
 Saving data will produce files named with year-day-hour-minute-second. format. Only the final assembled file asks for a file name. This code does not check for doublicate entries. <br>
 
