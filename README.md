@@ -2,10 +2,10 @@
 FRC Scout is a LabView application that allows collecting team scouting data during First Robotics Competion.
 
 The design is based on 
-* a) entring team and match data,
-* b) converting that data to QR Code, 
-* c) reading QR code, saving data into JSON text file and 
-* d) assembling all JSON files into single spreadsheet.
+* entring team and match data,
+* converting that data to QR Code, 
+* reading QR code, saving data into JSON text file and 
+* assembling all JSON files into single spreadsheet. <br>
 This program has been created with the intent to help collecting such data with multiple computers and transmitting it to a single computer without using wireless data connectiong. <br>
 
 This applicaiton needs LabView 2013 or later and Vision Module installed. It also needs JSON package which you can get from VI Package Manager. The QR generator has been taken from https://lavag.org/topic/15670-qr-code-generator/. The QR reader is a part of the NI LabView Vision Module. <br>
