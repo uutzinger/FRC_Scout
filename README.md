@@ -16,6 +16,7 @@ Saving data will produce files named with year-day-hour-minute-second. format. O
 
 This code does not run on Tablet or Phone. <br>
 This code does not include analysis features. <br>
+This code can be made into stand alone application not requiring LabView to run. <br>
 Meaning there is plenty of room for expansion. <br>
 
 Urs Utzinger <br>
