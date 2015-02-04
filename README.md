@@ -21,8 +21,8 @@ Meaning there is plenty of room for expansion. <br>
 Urs Utzinger <br>
 Bit Buckets, 4183, 2015
 
-[Enter Data] (https://github.com/uutzinger/Images/EnterData.jpg) <br>
-[Generate QR Code] (https://github.com/uutzinger/Images/QR_Generate.jpg) <br>
-[Read QR Code] (https://github.com/uutzinger/Images/QR_Read.jpg) <br>
-[Assemble JSON records] (https://github.com/uutzinger/Images/Assemble.jpg) <br>
+[Enter Data] (https://github.com/uutzinger/Images/blob/master/EnterData.jpg) <br>
+[Generate QR Code] (https://github.com/uutzinger/blob/master/Images/QR_Generate.jpg) <br>
+[Read QR Code] (https://github.com/uutzinger/blob/master/Images/QR_Read.jpg) <br>
+[Assemble JSON records] (https://github.com/uutzinger/blob/master/Images/Assemble.jpg) <br>
 
